@@ -20,3 +20,4 @@ requirements:
     - graphviz
     - boto3
     - reportlab
+    - pytables
