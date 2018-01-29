@@ -13,4 +13,3 @@ requirements:
   run:
     - chxtools
     - eiger-io
-    - hxntools
