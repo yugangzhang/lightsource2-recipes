@@ -17,5 +17,5 @@ requirements:
     - line_profiler
     - memory_profiler
     - modestimage
-    - pychx
     - papermill
+    - pychx
