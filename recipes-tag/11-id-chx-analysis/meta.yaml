@@ -19,3 +19,4 @@ requirements:
     - modestimage
     - papermill
     - pychx
+    - papermill
