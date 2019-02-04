@@ -1,6 +1,6 @@
 {% set year = "2019" %}
 {% set cycle = "1" %}
-{% set version ="2" %}
+{% set version ="3" %}
 
 package:
   name: 11-id-chx-analysis
@@ -18,3 +18,4 @@ requirements:
     - memory_profiler
     - modestimage
     - pychx
+    - papermill
