@@ -26,6 +26,7 @@ requirements:
         - h5py
         - lmfit
         - matplotlib
+        - modestimage
         - numpy
         - pandas
         - pillow
@@ -40,7 +41,6 @@ requirements:
         - tifffile
         - tqdm
         - xray-vision
-        # mpl-modest-image should be installed manually from the GH repo
 
 test:
     imports:
