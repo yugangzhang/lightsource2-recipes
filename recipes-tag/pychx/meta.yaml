@@ -1,4 +1,4 @@
-{% set version = "4.0.3" %}
+{% set version = "4.0.4" %}
 
 package:
     name: pychx
@@ -30,7 +30,6 @@ requirements:
         - pandas
         - pillow
         - pyolog
-        - pytables
         - python
         - pyyaml
         - reportlab
